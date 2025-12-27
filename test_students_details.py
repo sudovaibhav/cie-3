@@ -1,4 +1,4 @@
-from students import test_students_details
+from students import students_details
 def test_students_details():
     expected_output = (
         f"USN: 01fe24bca300\n"
